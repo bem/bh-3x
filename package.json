@@ -1,0 +1,27 @@
+{
+  "name": "bh-3x",
+  "version": "3.3.0",
+  "description": "BH 3.x wrapper as a separate package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bem/bh-3x.git"
+  },
+  "keywords": [
+    "bh",
+    "templates",
+    "bem"
+  ],
+  "author": "Sergey Belov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bem/bh-3x/issues"
+  },
+  "homepage": "https://github.com/bem/bh-3x#readme",
+  "dependencies": {
+    "bh": "3.3.0"
+  }
+}
