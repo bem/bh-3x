@@ -1,6 +1,6 @@
 {
   "name": "bh-3x",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "BH 3.x wrapper as a separate package",
   "main": "index.js",
   "scripts": {
